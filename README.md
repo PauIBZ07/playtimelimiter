@@ -45,7 +45,7 @@ Default configuration file:
 ["Playtime Limiter configuration"]
 #The length (IN SECONDS) which a player can play on your server before getting kicked with a timeout. Default is 3 hours
 #Range: 1 ~ 604800
-playtime_length = 10800
+playtime_length = 14400
 #The length (IN SECONDS) which a player has to wait, after being kicked from the server to be able to join again. Default is 12 hours. 
 #Do not leave blank.
 #Range: 1 ~ 604800
